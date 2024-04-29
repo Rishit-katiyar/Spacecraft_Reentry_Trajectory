@@ -56,7 +56,3 @@ Contributions to this project are highly encouraged! If you have any ideas for i
 ## License
 
 This project is licensed under the GNU General Public License v3.0. You can find the full license details in the [LICENSE](LICENSE) file.
-
-## Acknowledgements
-
-Special thanks to [OpenAI](https://openai.com) for providing the AI assistance in generating this README! Their advanced language model technology helped create this detailed documentation.
