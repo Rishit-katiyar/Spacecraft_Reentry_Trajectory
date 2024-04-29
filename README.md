@@ -7,7 +7,7 @@ Welcome to the Spacecraft Reentry Trajectory Simulation repository! This project
 Spacecraft reentry is a critical phase of spaceflight, where a spacecraft returns to Earth from space. During reentry, the spacecraft encounters significant drag forces and experiences heating due to friction with the Earth's atmosphere. This simulation aims to model and visualize the trajectory of a spacecraft during reentry, providing valuable insights into its behavior and environmental conditions.
 
 <div align="center">
-  <img src="https://github.com/Rishit-katiyar/Spacecraft_Reentry_Trajectory/assets/167756997/1409c765-fce7-4b2f-87b5-014c74cc199b" alt="Spacecraft Reentry Image">
+  <img src="https://github.com/Rishit-katiyar/Spacecraft_Reentry_Trajectory/assets/167756997/1409c765-fce7-4b2f-87b5-014c74cc199b" alt="Spacecraft Reentry Image" width="400">
 </div>
 
 ## Installation
